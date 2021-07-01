@@ -1,7 +1,67 @@
-body {background-color:tan;}
-.heading{
-  color:Blue;
-  padding:35%;
-  font-family:sans-serif;
+body 
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial;
 }
 
+h1
+{
+    color: grey;
+    font-family: Verdana;
+}
+
+.main
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.calculations
+{
+    margin-left: 80px;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+#compute
+{
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(14, 13, 13);
+    height: 20px;
+    width: auto;
+}
+#amount{
+    height: 20px;
+    width: 190px;
+}
+
+#years{
+    height: 20px;
+    width: auto;
+}
+
+#footer
+{
+    margin-top: 10px;
+}
+
+.labels
+{
+    width: 120px;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
